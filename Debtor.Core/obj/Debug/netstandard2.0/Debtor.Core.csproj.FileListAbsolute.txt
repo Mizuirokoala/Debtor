@@ -1,0 +1,9 @@
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor.Core\bin\Debug\netstandard2.0\Debtor.Core.deps.json
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor.Core\bin\Debug\netstandard2.0\Debtor.Core.dll
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor.Core\bin\Debug\netstandard2.0\Debtor.Core.pdb
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor.Core\obj\Debug\netstandard2.0\Debtor.Core.csprojAssemblyReference.cache
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor.Core\obj\Debug\netstandard2.0\Debtor.Core.csproj.CoreCompileInputs.cache
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor.Core\obj\Debug\netstandard2.0\Debtor.Core.AssemblyInfoInputs.cache
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor.Core\obj\Debug\netstandard2.0\Debtor.Core.AssemblyInfo.cs
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor.Core\obj\Debug\netstandard2.0\Debtor.Core.dll
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor.Core\obj\Debug\netstandard2.0\Debtor.Core.pdb

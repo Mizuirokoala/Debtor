@@ -6,7 +6,10 @@ namespace Debtor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var debtorApp = new DebtorApp();
+            debtorApp.IntroduceDebtorApp();
+            debtorApp.AskForAction();
+
         }
     }
 }

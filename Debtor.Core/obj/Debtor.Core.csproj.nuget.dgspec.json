@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj": {}
+    "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj": {
+    "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj",
+        "projectUniqueName": "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj",
         "projectName": "Debtor.Core",
-        "projectPath": "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj",
+        "projectPath": "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj",
         "packagesPath": "C:\\Users\\damian.kaminski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor.Core\\obj\\",
+        "outputPath": "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

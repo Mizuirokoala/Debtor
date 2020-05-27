@@ -10,7 +10,7 @@ namespace Debtor
 
         public void IntroduceDebtorApp()
         {
-
+            Console.WriteLine("Witaj w aplikacji Dłużnik");
         }
 
         public void AddBorrower()
@@ -52,13 +52,46 @@ namespace Debtor
         {
             Console.WriteLine("Lista dłużników");
 
-            BorrowerManager.ListBorrowers();
+            foreach (var borrower in BorrowerManager.ListBorrowers())
+            {
+                Console.WriteLine(borrower);
+            }
         }
 
         public void AskForAction()
         {
+            Console.WriteLine("Podaj czynność do wykonania: ");
+            var userInput = default(string);
+
+            while (userInput != "exit")
+            {
+                Console.WriteLine("add - Dodawanie dłużnika");
+                Console.WriteLine("del - Usuwanie dłużnika");
+                Console.WriteLine("list - Wypisanie listy dłużników");
+                Console.WriteLine("exit - Wyjście z programu");
+
+                userInput = Console.ReadLine().ToLower();
+
+                switch (userInput)
+                {
+                    case "add":
+                        AddBorrower();
+                        break;
+                    case "del":
+                        DeleteBoorrower();
+                        break;
+                    case "list":
+                        ListAllBorrowers();
+                        break;
+
+                    default:
+                        Console.WriteLine("zła odpowiedź");
+                        break;
+                }
+            }
 
         }
+
 
     }
 }

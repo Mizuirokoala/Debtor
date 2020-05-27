@@ -1,0 +1,14 @@
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\bin\Debug\netcoreapp2.1\Debtor.deps.json
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\bin\Debug\netcoreapp2.1\Debtor.runtimeconfig.json
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\bin\Debug\netcoreapp2.1\Debtor.runtimeconfig.dev.json
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\bin\Debug\netcoreapp2.1\Debtor.dll
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\bin\Debug\netcoreapp2.1\Debtor.pdb
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\bin\Debug\netcoreapp2.1\Debtor.Core.dll
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\bin\Debug\netcoreapp2.1\Debtor.Core.pdb
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\obj\Debug\netcoreapp2.1\Debtor.csprojAssemblyReference.cache
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\obj\Debug\netcoreapp2.1\Debtor.csproj.CoreCompileInputs.cache
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\obj\Debug\netcoreapp2.1\Debtor.AssemblyInfoInputs.cache
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\obj\Debug\netcoreapp2.1\Debtor.AssemblyInfo.cs
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\obj\Debug\netcoreapp2.1\Debtor.csproj.CopyComplete
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\obj\Debug\netcoreapp2.1\Debtor.dll
+C:\Users\damian.kaminski\Source\Repos\Mizuirokoala\Debtor\Debtor\obj\Debug\netcoreapp2.1\Debtor.pdb

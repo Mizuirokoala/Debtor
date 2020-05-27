@@ -52,3 +52,6 @@ Mkfile.old
 dkms.conf
 /.vs
 /Debtor/.vs/Debtor/v16
+/Debtor/.vs/Debtor/DesignTimeBuild
+/Debtor/bin/Debug/netcoreapp2.1
+/Debtor.Core/bin/Debug/netstandard2.0

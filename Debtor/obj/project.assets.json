@@ -711,11 +711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor\\Debtor.csproj",
+      "projectUniqueName": "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor\\Debtor.csproj",
       "projectName": "Debtor",
-      "projectPath": "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor\\Debtor.csproj",
+      "projectPath": "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor\\Debtor.csproj",
       "packagesPath": "C:\\Users\\damian.kaminski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor\\obj\\",
+      "outputPath": "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -734,8 +734,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj": {
-              "projectPath": "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj"
+            "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj": {
+              "projectPath": "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj"
             }
           }
         }

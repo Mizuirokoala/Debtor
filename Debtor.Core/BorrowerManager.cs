@@ -8,6 +8,11 @@ namespace Debtor.Core
     {
         private List<Borrower> Borrowers { get; set; }
 
+        public BorrowerManager()
+        {
+            Borrowers = new List<Borrower>();
+        }
+
         public void AddBorrower(string name, decimal amount)
         {
             var borrower = new Borrower
