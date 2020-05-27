@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Debtor.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Debtor.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Debtor.Core.dll": {}
+        }
       }
     }
   },
@@ -681,10 +691,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Debtor.Core/1.0.0": {
+      "type": "project",
+      "path": "../Debtor.Core/Debtor.Core.csproj",
+      "msbuildProject": "../Debtor.Core/Debtor.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Debtor.Core >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -695,11 +711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor\\Debtor.csproj",
+      "projectUniqueName": "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor\\Debtor.csproj",
       "projectName": "Debtor",
-      "projectPath": "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor\\Debtor.csproj",
+      "projectPath": "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor\\Debtor.csproj",
       "packagesPath": "C:\\Users\\damian.kaminski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damian.kaminski\\Source\\Repos\\Mizuirokoala\\Debtor\\Debtor\\obj\\",
+      "outputPath": "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -717,7 +733,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj": {
+              "projectPath": "C:\\Users\\damian.kaminski\\source\\repos\\Mizuirokoala\\Debtor\\Debtor.Core\\Debtor.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
